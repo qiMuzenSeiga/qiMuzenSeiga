@@ -11,4 +11,5 @@ _为漫漫星河，染上属于自己的颜色_ 🌟
 [如果你有任何想对我说的话，可以去本仓库提`issue`哦](https://github.com/qiMuzenSeiga/qiMuzenSeiga/issues)
 
 [If you have anything you'd like to say to me, feel free to open an `issue` in this repository](https://github.com/qiMuzenSeiga/qiMuzenSeiga/issues)
+
 个人喜欢.NET技术栈/Personally, I like the .NET technology stack
