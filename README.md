@@ -12,4 +12,10 @@ _为漫漫星河，染上属于自己的颜色_ 🌟
 
 [If you have anything you'd like to say to me, feel free to open an `issue` in this repository](https://github.com/qiMuzenSeiga/qiMuzenSeiga/issues)
 
+
 个人喜欢.NET技术栈/Personally, I like the .NET technology stack
+
+
+题外话：可莉和小草真可爱
+
+By the way, Klee and Nahida are so cute :)
