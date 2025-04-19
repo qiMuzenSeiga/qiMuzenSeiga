@@ -29,7 +29,7 @@ Hi, my name is `柒梦染星河`, You can pronounce it like `qī mèng rǎn xīn
 
 Pinyin is a little different from English—it has tones. But don’t worry! If you're unsure how to say them, you can just ignore the tones and say `qi meng ran xing he` instead. You can also call me `qiMeng`. 
 
-My username `qiMuzenSega` can also be my English name. It’s a Japanese phonetic rendering of my Chinese name, though it doesn’t really mean anything in Japanese—just for fun!
+My username `qiMuzenSeiga` can also be my English name. It’s a Japanese phonetic rendering of my Chinese name, though it doesn’t really mean anything in Japanese—just for fun!
 
 - _About the first three lines of Chinese text_
 
