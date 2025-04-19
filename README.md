@@ -25,13 +25,13 @@ By the way, Klee and Nahida are so cute :)
 
 Hi, my name is `柒梦染星河`, You can pronounce it like `qī mèng rǎn xīng hé` in Pinyin. So excited to meet you all!
 
-_About names_
+- _About names_
 
 Pinyin is a little different from English—it has tones. But don’t worry! If you're unsure how to say them, you can just ignore the tones and say `qi meng ran xing he` instead. You can also call me `qiMeng`. 
 
 My username `qiMuzenSega` can also be my English name. It’s a Japanese phonetic rendering of my Chinese name, though it doesn’t really mean anything in Japanese—just for fun!
 
-_About the first three lines of Chinese text_
+- _About the first three lines of Chinese text_
 
 This isn't really important, but if you're curious, you can try a translation tool to check it out.
 
