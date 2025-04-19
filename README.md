@@ -35,6 +35,11 @@ My username `qiMuzenSega` can also be my English name. It’s a Japanese phoneti
 
 This isn't really important, but if you're curious, you can try a translation tool to check it out.
 
+- _About Language_
+
+My English isn't perfect, so I often use translation tools. Thanks for bearing with me!
+
+
 
 
 **最后 / Finally** 
