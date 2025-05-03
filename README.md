@@ -20,7 +20,7 @@ _为漫漫星河，染上属于自己的颜色_ 🌟
  / 
 By the way, Klee and Nahida are so cute :)
 
-**Hey, English-speaking friends, Look this way!**
+**Hey, English-speaking friends, Look this way**
 
 
 Hi, my name is `柒梦染星河`, You can pronounce it like `qī mèng rǎn xīng hé` in Pinyin. So excited to meet you all!
